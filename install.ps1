@@ -107,15 +107,14 @@ function Test-SpotifyVersion
 
 Write-Host @'
 *****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@reinhello message:
+Please use them for yourself only.
 *****************
 '@
 
 Write-Host @'
 *****************
-Authors: @Nuzair46, @KUTlime
+Authors: @reinhello
 *****************
 '@
 
@@ -358,8 +357,7 @@ Write-Host 'Done.'
 
 Write-Host @'
 *****************
-@mrpond message:
-#Thailand #ThaiProtest #ThailandProtest #freeYOUTH
-Please retweet these hashtag, help me stop dictator government!
+@reinhello message:
+Please use them for yourself only.
 *****************
 '@
